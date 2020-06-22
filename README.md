@@ -1,8 +1,8 @@
-<p style="text-align: center"><img src=""</p>
+<p style="text-align: center"><img src="https://user-images.githubusercontent.com/30931973/85276868-6d12f900-b4bd-11ea-8e05-5e9a49bae199.png" width="200" height="200"</p>
 
 ## 안만기 이력서 프로젝트 입니다.
 
-####실행
+#### 실행
  - composer dump-autoload
  - php tests/Test.php
 

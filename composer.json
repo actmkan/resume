@@ -1,0 +1,21 @@
+{
+  "name": "marc/resume",
+  "type": "project",
+  "description": "안만기 이력서 프로젝트입니다.",
+  "keywords": [
+    "resume",
+    "marc"
+  ],
+  "license": "MIT",
+  "require": {
+    "php": "^7.0"
+  },
+  "config": {
+    "optimize-autoloader": true
+  },
+  "autoload": {
+    "psr-4": {
+      "ManKiAhn\\": "src/mankiAhn/"
+    }
+  }
+}
